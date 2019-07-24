@@ -2,7 +2,7 @@
 title: Implementing a Jekyll CMS in 3 Days
 author: Shea Daniels
 description: >-
-  Monetery, Dwolla's annual tech summit, needed flexibility after building a new
+  Ejemplo, Dwolla's annual tech summit, needed flexibility after building a new
   website. Using Netlify CMS they added content management to a Jekyll site in
   three days.
 twitter_image: /img/netlify-cms.png
