@@ -1,6 +1,6 @@
 ---
 title: Add HOLA MUNDO
 group: start
-weight: 20
+weight: '50'
 ---
 Posting a new information
